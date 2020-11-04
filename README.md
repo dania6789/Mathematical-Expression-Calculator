@@ -9,8 +9,8 @@ This program provides three **key functionalities**:
 - **Prefix-Search**: program lists all words in the input dictionary that start with a user-provided prefix. (e.g. hu*)
 - **Wildcard-Search**: program listd all the words of the dictionary that match the search-string up to one character. (e.g. ke*tle)
 
-Program can be invoked using: 
-mymachine-promt >> ./mydictionary -d <dictionaryFile> -l <MaxNumOfWordsInOutput>  
+Program can be invoked using:  
+mymachine-promt >> ./mydictionary -d <dictionaryFile> -l <MaxNumOfWordsInOutput>
 
 where...
 - **-d** is the flag indicating that the lexeme proceeding it is the file name of the dictionary to be used.
